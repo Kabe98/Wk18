@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    font-family: 'Averia Serif Libre', cursive;
+  }
+  header {
+    background-color: white;
+    padding: 20px;
+  }
+  header ul {
+    float: right;
+    color: #333333;
+    font-family: 'Angkor', cursive;
+  }
+  header li {
+    display: inline-block;
+    padding: 0px 15px;
+  }
+  header p {
+    display: inline-block;
+  }
+  .herosection{    
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    width: 70%;
+}
+  .herosection img {
+    height: 300px;
+  }
+
+  .content {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: left;
+  }
+  button {
+    padding: 10px;
+    background-color: #FAAB67;
+    color: #333333;
+    font-size: 12px;
+  }
+  .MyWork img{
+    height: 200px;
+  }
+  .skills img{
+    height: 200px;
+    width: 200px;
+  }
+  .WanderList{
+    background-color: #DBD2C3;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    width: 70%;
+    margin:10rem auto 0 auto;
+  }
+.WonderList img{
+    height: 150px
+}
+.WonderList h1{
+    margin: 0;
+    color:#333333;
+}
+.WanderList p{
+    color: #4f4f4f;
+    margin-right: 15px;
+}
+
+.Restyle{
+    background-color: #ECE5DB;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 70%;
+    margin:10rem auto 0 auto;
+  }
+.Restyle img{
+    height: 250px
+}
+.Restyle h1{
+    margin: 0;
+    color:#333333;
+}
+.Restyle p{
+    color: #4f4f4f;
+    margin-right: 15px;
+}
+.OHT{
+    background-color: #DCD0C4;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 70%;
+    margin:10rem auto 0 auto;
+  }
+.OHT img{
+    height: 250px
+}
+.OHT h1{
+    margin: 0;
+    color:#333333;
+}
+.OHT p{
+    color: #4f4f4f;
+    margin-right: 15px;
+}
+
+  #MyWork{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    width: 70%;
+  }
+
+  footer {
+    background-color: #373738;
+    padding: 5px;
+    color: white;
+  }
+  footer ul {
+    list-style: none;
+    padding-left: 5px;
+  }
+  footer li {
+    display: inline-block;
+    padding: 0px 7px;
+  }
